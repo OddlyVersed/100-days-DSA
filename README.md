@@ -1,1 +1,1 @@
-# 100-days-DSA
+# 100-Days-of-DSA
